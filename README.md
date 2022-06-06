@@ -1,3 +1,3 @@
 # Basic-Caculator
-[pip install tk]
-Made with Python
+- [pip install tk]
+- Made with Python
